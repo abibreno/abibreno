@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola! Mi nombre es Abi 🚀 Front-end developer</h1>
 
-## 💻 **Estas son las tecnologias con las que trabajo actualmente** 💻
+ <h2 align="center">💻 Estas son las tecnologias con las que trabajo actualmente 💻</h2>
 <table align="center">
   <tr>
     <td align="center" width="100">
