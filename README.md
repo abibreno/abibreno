@@ -37,10 +37,10 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://worldvectorlogo.com/logo/adobe-illustrator-cc-2019.png" width="50" height="50" alt="Adobe" />
+        <img src="https://worldvectorlogo.com/logo/adobe-illustrator-cc-2019.svg" width="50" height="50" alt="Soon" />
       </a>
-      <br>Adobe Illustrator
-  </tr>
+      <br>Adobe
+    </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Soon" />
@@ -48,6 +48,7 @@
       <br>Figma
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="100">
       <a href="#">
