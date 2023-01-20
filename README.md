@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://worldvectorlogo.com/logo/adobe-illustrator-cc-2019.svg" width="50" height="50" alt="Soon" />
+        <img src="https://worldvectorlogo.com/logo/adobe-illustrator-cc-2019.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>Adobe
     </td>
