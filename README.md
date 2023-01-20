@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola! Mi nombre es Abi 🚀 Front-end developer</h1>
 
-## 💻 **Estas son las tecnologias con las que se trabajar actualmente**
+## 💻 **Estas son las tecnologias con las que trabajo actualmente** 💻
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -37,18 +37,11 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Soon" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="100">
-      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Soon" />
       </a>
       <br>Figma
     </td>
   </tr>
-  
   <tr>
     <td align="center" width="100">
       <a href="#">
@@ -137,5 +130,11 @@
         <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>Photoshop
+  </tr>
+   <td align="center" width="100">
+      <a href="#">
+        <img src="https://worldvectorlogo.com/logo/adobe-illustrator-cc-2019" width="50" height="50" alt="Adobe" />
+      </a>
+      <br>Adobe Illustrator
   </tr>
 </table>
