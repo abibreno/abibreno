@@ -1,8 +1,10 @@
 <img align="center" alt="banner" width="auto" src="Abi.png">
 
-<h1 align="center">Hola! Mi nombre es Abi 🚀 Front-end developer</h1>
+<h1 align="center">Hello there! I'm Abi Breno 🚀 Front-end developer</h1>
 
- <h2 align="center">💻 Estas son las tecnologias con las que trabajo actualmente 💻</h2>
+ <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -81,7 +83,7 @@
       </a>
       <br>Next.js
     </td>
-   
+
   <td align="center" width="100">
    <a href="#">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
