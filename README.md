@@ -1,6 +1,6 @@
 <img align="center" alt="banner" width="auto" src="Abi.png">
 
-<h1 align="center">Hello there! I'm Abi Breno 🚀 Front-end developer</h1>
+<h1 align="center">Hola! Soy Abi Breno 🚀 Desarrolladora front-end || Hello there! I'm Abi Breno 🚀 Front-end developer</h1>
 
 ## ¿Quién soy? 
 Soy un **Programador _Fullstack_** orientado al diseño ***Front-end*** y creación
@@ -8,7 +8,7 @@ de material visual.
 
 Crecí más con libros y documentales que con dibujos animados, y desde entonces eso no ha cambiado. A través de la tecnología desde muy chica empecé a conectar con el mundo, encontrando respuestas y en consecuencia haciéndome cada vez más preguntas.
 Mi gran curiosidad y necesidad de entender el mundo que nos rodea me llevo a conocer el mundo de la programación.
-
+## Who I am?
 I am a **Fullstack_** Developer oriented to ***Front-end*** design and creation
 of visual material.
 
@@ -17,7 +17,7 @@ My great curiosity and need to understand the world around us led me to discover
 ## ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
 programadora.
-
+## What I do?
 I am currently dedicated to carrying out projects that allow me to advance in my training as a
 programmer.
 
@@ -25,7 +25,7 @@ programmer.
 Mi sueño y objetivo, es dedicarme a mejorar la educación a traves de la tecnología. 🎆
 
 Estoy completamente convencida de que podemos mejorar el mundo a través de la tecnología, y es fundamental subirnos a ese tren que va a toda velocidad lo más raápido posible.
-
+## Where do I go?
 My dream and goal is to dedicate myself to improving education through technology.🎆
 
 I am completely convinced that we can improve the world through technology, and it is essential to get on that train that is going at full speed as quickly as possible.
