@@ -107,9 +107,9 @@ I am completely convinced that we can improve the world through technology, and 
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="NodeJS" />
+        <img src="https://www.iconfinder.com/icons/4373178/elementor_logo_logos_icon" width="50" height="50" alt="NodeJS" />
       </a>
-      <br>Next.js
+      <br>Elementor
     </td>
 
   <td align="center" width="100">
@@ -152,9 +152,9 @@ I am completely convinced that we can improve the world through technology, and 
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/less.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://worldvectorlogo.com/download/wordpress-2.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>Less
+      <br>WordPress
     </td>
   <td align="center" width="100">
       <a href="#">
