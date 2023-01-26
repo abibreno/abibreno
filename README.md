@@ -1,6 +1,6 @@
 <img align="center" alt="banner" width="auto" src="Abi.png">
 
-<h1 align="center">Hola! Soy Abi Breno 🚀 Desarrolladora front-end || Hello there! I'm Abi Breno 🚀 Front-end developer</h1>
+<h1 align="center">Hola! Soy Abi Breno 🚀 Desarrolladora front-end </br> Hello there! I'm Abi Breno 🚀 Front-end developer</h1>
 
 ## ¿Quién soy? 
 Soy un **Programador _Fullstack_** orientado al diseño ***Front-end*** y creación
