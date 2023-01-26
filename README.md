@@ -2,7 +2,35 @@
 
 <h1 align="center">Hello there! I'm Abi Breno 🚀 Front-end developer</h1>
 
- <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+## ¿Quién soy? 
+Soy un **Programador _Fullstack_** orientado al diseño ***Front-end*** y creación
+de material visual.
+
+Crecí más con libros y documentales que con dibujos animados, y desde entonces eso no ha cambiado. A través de la tecnología desde muy chica empecé a conectar con el mundo, encontrando respuestas y en consecuencia haciéndome cada vez más preguntas.
+Mi gran curiosidad y necesidad de entender el mundo que nos rodea me llevo a conocer el mundo de la programación.
+
+I am a **Fullstack_** Developer oriented to ***Front-end*** design and creation
+of visual material.
+
+I grew up more with books and documentaries than with cartoons, and since then that hasn't changed. Through technology from a very young age I began to connect with the world, finding answers and consequently asking myself more and more questions.
+My great curiosity and need to understand the world around us led me to discover the world of programming.
+## ¿Qué hago?
+Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
+programadora.
+
+I am currently dedicated to carrying out projects that allow me to advance in my training as a
+programmer.
+
+## ¿A dónde me dirijo?
+Mi sueño y objetivo, es dedicarme a mejorar la educación a traves de la tecnología. 🎆
+
+Estoy completamente convencida de que podemos mejorar el mundo a través de la tecnología, y es fundamental subirnos a ese tren que va a toda velocidad lo más raápido posible.
+
+My dream and goal is to dedicate myself to improving education through technology.🎆
+
+I am completely convinced that we can improve the world through technology, and it is essential to get on that train that is going at full speed as quickly as possible.
+
+ <h2 align="left" id="macropower-tech">💻Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 <table align="center">
