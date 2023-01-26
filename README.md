@@ -147,7 +147,7 @@ I am completely convinced that we can improve the world through technology, and 
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://worldvectorlogo.com/download/wordpress-icon-1.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>WordPress
     </td>
