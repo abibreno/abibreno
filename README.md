@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="auto" src="Abi.png">
+<img align="center" alt="banner" width="auto" src="portadaGitHub.png">
 
 <h1 align="center">Hola! Soy Abi Breno 🚀 Desarrolladora front-end </br> Hello there! I'm Abi Breno 🚀 Front-end developer</h1>
 
