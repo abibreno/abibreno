@@ -185,8 +185,5 @@ I am completely convinced that we can improve the world through technology, and 
 </div>  
   
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6f5jwxp5bqm78bxu38tsxli2v&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" /></div>
 
