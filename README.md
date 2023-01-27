@@ -14,10 +14,10 @@ of visual material.
 
 I grew up more with books and documentaries than with cartoons, and since then that hasn't changed. Through technology from a very young age I began to connect with the world, finding answers and consequently asking myself more and more questions.
 My great curiosity and need to understand the world around us led me to discover the world of programming.
-## 💻⛰️ ¿Qué hago?
+## 💻 ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
 programadora.
-## 💻⛰️ What I do?
+## 💻 What I do?
 I am currently dedicated to carrying out projects that allow me to advance in my training as a
 programmer.
 
