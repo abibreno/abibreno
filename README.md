@@ -2,30 +2,30 @@
 
 <h1 align="center">Hola! Soy Abi Breno 🚀 Desarrolladora front-end </br> Hello there! I'm Abi Breno 🚀 Front-end developer</h1>
 
-## ¿Quién soy? 
+## 🙋🏽‍♀️ ¿Quién soy? 
 Soy un **Programador _Fullstack_** orientado al diseño ***Front-end*** y creación
 de material visual.
 
 Crecí más con libros y documentales que con dibujos animados, y desde entonces eso no ha cambiado. A través de la tecnología desde muy chica empecé a conectar con el mundo, encontrando respuestas y en consecuencia haciéndome cada vez más preguntas.
 Mi gran curiosidad y necesidad de entender el mundo que nos rodea me llevo a conocer el mundo de la programación.
-## Who I am?
+## 🙋🏽‍♀️ Who I am?
 I am a **Fullstack_** Developer oriented to ***Front-end*** design and creation
 of visual material.
 
 I grew up more with books and documentaries than with cartoons, and since then that hasn't changed. Through technology from a very young age I began to connect with the world, finding answers and consequently asking myself more and more questions.
 My great curiosity and need to understand the world around us led me to discover the world of programming.
-## ¿Qué hago?
+## 💻⛰️ ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
 programadora.
-## What I do?
+## 💻⛰️ What I do?
 I am currently dedicated to carrying out projects that allow me to advance in my training as a
 programmer.
 
-## ¿A dónde me dirijo?
+## 🚀 ¿A dónde me dirijo?
 Mi sueño y objetivo, es dedicarme a mejorar la educación a traves de la tecnología. 🎆
 
 Estoy completamente convencida de que podemos mejorar el mundo a través de la tecnología, y es fundamental subirnos a ese tren que va a toda velocidad lo más raápido posible.
-## Where do I go?
+## 🚀 Where do I go?
 My dream and goal is to dedicate myself to improving education through technology.🎆
 
 I am completely convinced that we can improve the world through technology, and it is essential to get on that train that is going at full speed as quickly as possible.
@@ -183,7 +183,8 @@ I am completely convinced that we can improve the world through technology, and 
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+</br>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6f5jwxp5bqm78bxu38tsxli2v&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" /></div>
 
